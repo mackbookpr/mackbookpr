@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhav Maheshwari</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100" height="100" alt="">
 
 - 🔭 I’m currently working on [an Ecommerce Store](https://github.com/mackbookpr/Minimalistic-Ecommerce.git)
 
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mackbookpr&show_icons=true&locale=en" alt="mackbookpr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mackbookpr&" alt="mackbookpr" /></p>
+
